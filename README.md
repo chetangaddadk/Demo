@@ -1,0 +1,1 @@
+Demo project created to work and test the functionality of git
